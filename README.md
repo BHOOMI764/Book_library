@@ -20,18 +20,6 @@ A robust, scalable REST API for managing a digital book library with JWT-based a
 - **📊 Error Handling**: Structured error responses with proper HTTP status codes
 - **🚀 Production Ready**: Optimized for deployment and scaling
 
-## 📋 Table of Contents
-
-1. [Quick Start](#quick-start)
-2. [Installation](#installation)
-3. [Configuration](#configuration)
-4. [API Documentation](#api-documentation)
-5. [Authentication](#authentication)
-6. [Error Handling](#error-handling)
-7. [Testing](#testing)
-8. [Deployment](#deployment)
-9. [Contributing](#contributing)
-10. [License](#license)
 
 ## 🏃‍♂️ Quick Start
 
